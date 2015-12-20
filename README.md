@@ -14,7 +14,7 @@ A functional zsh theme with no fancy pretensions. Fully customizable
 * zsh vim mode.
 * user and hostname
 
-![Infostrip example]()
+![Infostrip example](https://raw.githubusercontent.com/richerve/infostrip-zsh-theme/master/infostrip-example.png)
 ## Installing
 
 The infostrip theme uses some functions and variables from base oh-my-zsh, mostly for the git info.
