@@ -6,7 +6,7 @@ INFOSTRIP_PROMPT_CHAR=${:-"\u276f "} #❱
 INFOSTRIP_PROMPT_ORDER=${:-"hostname dir git ruby venv"}
 
 ## VI MODE
-INFOSTRIP_PROMPT_VIMODE=${:-true}
+INFOSTRIP_PROMPT_VIMODE=${:-false}
 
 ## CONTEXT
 INFOSTRIP_PROMPT_USER_BG=${:-default}
